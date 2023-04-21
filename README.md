@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BrianStormYT (Brian Leong)
+- 👋 Hi, I’m @BrianStorm (Brian Leong)
 - 👀 I’m interested in software development in C++, Java, or Python
 - 🌱 I’m currently learning advanced OOP C++ programming, Physics, as well as some JavaScript. I'm currently planning on learning even more programming languages.
 - 💞️ I’m looking to collaborate on any projects to gain experience. 
